@@ -17,8 +17,8 @@ const BotName = 'RUKA BOT';
 const instagram = 'https://instagram.com/sndrzqy_'; 
 const telegram = 'ikiiii2906'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = '-';
-//const grupch1 = 'belum ada grup'; 
+const youtube = 'Unknown People';
+//const grupch1 = 'https://chat.whatsapp.com/JKhKJDkEDpg4srefqACH1y'; 
 //const grupch2 = 'belum ada grup' ; 
 const
 {
